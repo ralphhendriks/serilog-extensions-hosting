@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InlineInitializationSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

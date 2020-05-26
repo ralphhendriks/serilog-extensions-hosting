@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 
-namespace SimpleServiceSample
+namespace EarlyInitializationSample
 {
     public class Program
     {
